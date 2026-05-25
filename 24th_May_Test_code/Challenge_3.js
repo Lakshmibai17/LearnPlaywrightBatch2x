@@ -1,4 +1,3 @@
-let score = 95
 function classifyJsBasicsScore(score) {
     if (score >= 90) {
         return "EXCELLENT";
